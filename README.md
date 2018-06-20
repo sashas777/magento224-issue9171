@@ -1,8 +1,8 @@
 # Magento 2.2.4 Fix for Issue #9171
-[![Latest Stable Version](https://poser.pugx.org/sashas/magento224-issue9171/v/stable)](https://packagist.org/packages/sashas/magento224-issue14951)
-[![Total Downloads](https://poser.pugx.org/sashas/magento224-issue9171/downloads)](https://packagist.org/packages/sashas/magento224-issue14951)
-[![Latest Unstable Version](https://poser.pugx.org/sashas/magento224-issue9171/v/unstable)](https://packagist.org/packages/sashas/magento224-issue14951)
-[![License](https://poser.pugx.org/sashas/magento224-issue9171/license)](https://packagist.org/packages/sashas/magento224-issue14951)
+[![Latest Stable Version](https://poser.pugx.org/sashas/magento224-issue9171/v/stable)](https://packagist.org/packages/sashas/magento224-issue9171)
+[![Total Downloads](https://poser.pugx.org/sashas/magento224-issue9171/downloads)](https://packagist.org/packages/sashas/magento224-issue9171)
+[![Latest Unstable Version](https://poser.pugx.org/sashas/magento224-issue9171/v/unstable)](https://packagist.org/packages/sashas/magento224-issue9171)
+[![License](https://poser.pugx.org/sashas/magento224-issue9171/license)](https://packagist.org/packages/sashas/magento224-issue9171)
 
 This module works only with Magento =>2.2.4 and <2.3.0  versions and need to be removed after upgrade to 2.3.0 or downgrade less than 2.2.4. Assumed that the issue will be fixed in the 2.3.0 release.
 
